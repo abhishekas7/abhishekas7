@@ -1,4 +1,4 @@
-  [![An image of @abhishekas7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishekas7)](https://holopin.io/@abhishekas7)
+
 <h1 align="center">Hi 👋, I'm ABHISHEK A S</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
@@ -26,7 +26,7 @@
   
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   
-
+  [![An image of @abhishekas7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishekas7)](https://holopin.io/@abhishekas7)
 
 
  
